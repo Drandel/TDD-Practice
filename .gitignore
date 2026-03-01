@@ -1,0 +1,18 @@
+# Answer key
+answerKey/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
